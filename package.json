@@ -1,0 +1,16 @@
+{
+  "name": "lulon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "list.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "lodash": "^4.17.21"
+  }
+}
